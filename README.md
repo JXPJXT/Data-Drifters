@@ -8,3 +8,8 @@ moreover we also have put the er diagram and relationship diagram in the folder 
 steps to login, change the file directory for the icon file logo file and the bg file,
 further run the v2og file to view, insertion.py houses the data insertion, zomato_data has the same entries in excel format, further database.ipynb has the database codes.
 the backend is linked to the tkinter page for sign up sign in for now.
+
+use credentials 
+RahulSharma
+rahul23
+to login
