@@ -16,7 +16,7 @@ class EntryWithPlaceholder(tk.Entry):
         self.put_placeholder()
 
     def _on_focus_in(self, event):
-        if self.get() == self.placeholder:
+        if self.get() == self.placeholder:  
             self.delete(0, tk.END)
             self.config(fg=self.default_fg_color)
 

@@ -204,7 +204,7 @@ class LoginApp:
 
         selection_window.bind("<Configure>", lambda event: self.resize_selection_bg_image(event, selection_canvas))
 
-        veg_hover_image = Image.open(r"C:\Users\bhati\OneDrive\Desktop\Zomato\veg.png")
+        veg_hover_image = Image.open(r"C:\Users\bhati\OneDrive\Desktop\Zomato\vg.png")
         veg_hover_photo = ImageTk.PhotoImage(veg_hover_image)
 
         non_veg_hover_image = Image.open(r"C:\Users\bhati\OneDrive\Desktop\Zomato\nnveg.png")
